@@ -14,11 +14,6 @@ An intelligent chatbot app that remembers previous interactions and can answer q
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon (you can deploy this easily on [Streamlit Cloud](https://streamlit.io/cloud))!
-
----
 
 
 ## 🛠️ Tech Stack
